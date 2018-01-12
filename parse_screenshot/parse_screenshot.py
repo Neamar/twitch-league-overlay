@@ -9,8 +9,10 @@ def parse_screenshot(screenshot_path, items):
     img_gray = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)
 
     for item in items:
-        print("Looking for %s" % item['name'])
+        print(" Looking for %s" % item['name'])
 
+        # Dictionary of x,y, ratio, value
+        points = []
         template = cv2.imread(item['image_path'], 0)
         w, h = template.shape[::-1]
 
@@ -25,11 +27,27 @@ def parse_screenshot(screenshot_path, items):
             threshold = 0.7
             loc = np.where(res >= threshold)
 
-            points = list(zip(*loc[::-1]))
+            potential_points = list(zip(*loc[::-1]))
             if len(points) > 0:
-                print("Got %s match(es) for %s" % (len(points), item['name']))
-            for pt in points:
-                cv2.rectangle(img_rgb, pt, (pt[0] + int(w * r), pt[1] + int(h * r)), (0, 0, 255), 2)
+                print("Got %s potential match(es) for %s" % (len(points), item['name']))
+            for potential_point in potential_points:
+                already_exists = False
+                for point in points:
+                    if abs(point['x'] - potential_point[0]) < point['ratio'] * w and abs(point['y'] - potential_point[1]) < point['ratio'] * h:
+                        print("Existing match.")
+                        # We already know about this match, potentially update value
+                        point['value'] = max(point['value'], res[potential_point[0], potential_point[1]])
+                    else:
+                        print("New match")
+                        points.append({
+                            "x": potential_point[0],
+                            "y": potential_point[1],
+                            "ratio": r,
+                            "value": res[potential_point[0]][potential_point[1]]
+                        })
+
+        for pt in potential_points:
+            cv2.rectangle(img_rgb, pt, (pt[0] + int(w * r), pt[1] + int(h * r)), (0, 0, 255), 2)
 
     cv2.imwrite('res.png', img_rgb)
 
