@@ -1,0 +1,89 @@
+.ritoverlay {
+  padding: 10px;
+  margin: 0;
+
+  background: #010A13;
+  color: #F0E6D2;
+
+  max-width: 400px;
+  display: inline-block;
+
+  position: relative;
+
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 14px;
+
+  border: 2px solid #785A28;
+}
+
+.ritoverlay:before,
+.ritoverlay:after {
+  position: absolute;
+  content: '';
+  display: inline-block;
+
+  width: 0;
+  height: 0;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  left: 10px;
+}
+
+.ritoverlay:before {
+  border-top: 10px solid #010A13;
+  z-index: 2;
+  bottom: -10px;
+}
+
+.ritoverlay:after {
+  border-top: 10px solid #785A28;
+  z-index: 1;
+  bottom: -12px;
+}
+
+.ritoverlay .green { color: #98FE99; }
+.ritoverlay .gold { color: #ECDB97; }
+.ritoverlay .yellow { color: #FEDD23; }
+
+.ritoverlay-attributes,
+.ritoverlay-text {
+  margin-top: 10px;
+}
+
+.ritoverlay-title {
+  color: #CDBE91;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.ritoverlay-attributes {
+  color: #98FE99;
+}
+
+.ritoverlay-attributes ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ritoverlay-attributes li {
+  display: block;
+  margin-top: 2px;
+}
+
+.ritoverlay-attributes li:first-child {
+  margin-top: 0;
+}
+
+.ritoverlay-text p {
+  margin: 6px 0 0 0;
+}
+
+.ritoverlay-text strong {
+  color: #FABE0C;
+}
+
+
+.ritoverlay-text p:first-child {
+  margin: 0;
+}
