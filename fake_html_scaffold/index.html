@@ -1,22 +1,77 @@
 <html>
   <head>
     <title>Fake Overlay</title>
-    <style type="text/css">
-    </style>
-    <script
-  src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-  integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
-  crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="ritoverlay.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
     <script>
-      $(function() {
-        "use strict";
-        $('#stream').on('mousemove', function(e) {
-          console.log(e.clientX, e.clientY);
-        });
-      });
+var data = [
+  {
+    x: 1163,
+    y: 956,
+    w: 40,
+    h: 40,
+    content: `
+    <div class="ritoverlay-title">Trinity force</div>
+    <div class="ritoverlay-attributes">
+      <ul>
+        <li>+25 something</li>
+        <li>+25 something else</li>
+        <li>+15% something</li>
+      </ul>
+    </div>
+
+    <div class="ritoverlay-text">
+      <p>
+        <strong>UNIQUE passive:rage:</strong> Basic
+      </p>
+      <p>
+        Tons of damage
+      </p>
+    </div>
+  `}
+];
+
+$(function() {
+  "use strict";
+
+  var img = document.getElementById('stream');
+  var ritoverlay = document.getElementById('ritoverlay');
+
+  img.addEventListener('mousemove', function(e) {
+    var originalWidth = img.naturalWidth;
+    var originalHeight = img.naturalHeight;
+    var currentWidth = img.width;
+    var currentHeight = img.height;
+    var ratio = currentWidth / originalWidth;
+
+    var mouseX = e.pageX - img.offsetLeft;
+    var mouseY = e.pageY - img.offsetTop;
+    var convertedClientX = mouseX / ratio;
+    var convertedClientY = mouseY / ratio;
+
+
+    var matchingTooltip = data.filter(function(d) {
+      return Math.abs(d.x - convertedClientX) < d.w && Math.abs(d.y - convertedClientY) < d.h;
+    });
+
+    if(matchingTooltip.length > 0) {
+      ritoverlay.style.display = 'block';
+      ritoverlay.style.left = mouseX - 32;
+      ritoverlay.style.bottom = img.height - mouseY + 24;
+      var tooltip = matchingTooltip[0];
+      ritoverlay.innerHTML = tooltip.content;
+    }
+    else {
+      ritoverlay.style.display = 'none';
+    }
+  });
+});
     </script>
   </head>
   <body>
-    <img src="../screenshots/stream1.png" id="stream" style="width: 100%"/>
+    <div style="position: relative">
+      <div class="ritoverlay" id="ritoverlay" style="display: none; position: absolute;"></div>
+      <img src="../screenshots/stream1.png" id="stream" style="width: 100%"/>
+    </div>
   </body>
 </html>
