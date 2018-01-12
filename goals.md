@@ -3,7 +3,7 @@
 ## Mission
 As a stream viewer,
 When I hover any League of Legends item on stream,
-I get relevant tooltip displaying the item name and description
+I get relevant tooltips displaying the item name and description
 
 ![Example image](screenshots/stream1.png)
 

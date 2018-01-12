@@ -57,3 +57,14 @@ where `Rect` is the following class:
     height: int
 }
 ```
+
+### fakeHTMLScaffold
+A fake HTML page displaying a screenshot, and loading the required CSS and JS for tooltip display.
+
+Only used for demo purpose.
+
+
+### buildHTML
+Builds an HTML page with the tooltips,
+Returns a div with embedded CSS for the positioning
+Can assume that a CSS and a JS file have been loaded into the page before (for instance, by fakeHTMLScaffold).
