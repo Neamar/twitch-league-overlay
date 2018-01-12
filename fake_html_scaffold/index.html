@@ -61,7 +61,7 @@ $(function() {
   var img = document.getElementById('stream');
   var ritoverlay = document.getElementById('ritoverlay');
   var wrapper = document.getElementById('wrapper');
-  var hasDisplayedBlock = false;
+  var hasDisplayedBlock = true;
 
   img.addEventListener('mousemove', function(e) {
     var originalWidth = img.naturalWidth;
@@ -72,25 +72,31 @@ $(function() {
 
     if(!hasDisplayedBlock) {
       data.forEach(function(d) {
-        wrapper.innerHTML += `<div style="width:${d.w * ratio}px; height: ${d.h * ratio}px; position: absolute; left: ${d.x * ratio}px; top: ${d.y * ratio}px; background-color: rgba(255, 0, 0, 0.4);"></div>`;
+        var div = document.createElement('div');
+        div.style.position = 'absolute';
+        div.style.width = d.w * ratio;
+        div.style.height = d.h * ratio;
+        div.style.left = d.x * ratio;
+        div.style.top = d.y * ratio;
+        div.style.backgroundColor = 'rgba(255, 0, 0, 0.4)';
+        wrapper.appendChild(div);
       });
       hasDisplayedBlock = true;
     }
 
-    var mouseX = e.pageX - img.offsetLeft;
-    var mouseY = e.pageY - img.offsetTop;
+    var mouseX = e.pageX - img.getBoundingClientRect().x;
+    var mouseY = e.pageY - img.getBoundingClientRect().y;
+    console.log(mouseX, mouseY);
     var convertedClientX = mouseX / ratio;
     var convertedClientY = mouseY / ratio;
 
-    console.log(mouseX, mouseY, img.offsetLeft);
-
     var matchingTooltip = data.filter(function(d) {
-      return Math.abs(d.x - convertedClientX) < d.w * ratio && Math.abs(d.y - convertedClientY) < d.h * ratio;
+      return Math.abs(d.x + d.w / 2 - convertedClientX) < d.w * ratio && Math.abs(d.y + d.h / 2 - convertedClientY) < d.h * ratio;
     });
 
     if(matchingTooltip.length > 0) {
       ritoverlay.style.display = 'block';
-      ritoverlay.style.left = mouseX - 32;
+      ritoverlay.style.left = mouseX - 25;
       ritoverlay.style.bottom = img.height - mouseY + 24;
       var tooltip = matchingTooltip[0];
       ritoverlay.innerHTML = tooltip.content;
