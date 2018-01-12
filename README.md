@@ -13,7 +13,7 @@ source ./venv/bin/activate
 ### getItems
 Return, for a given locale (e.g. `en_GB`) a list of all the items in League current patch.
 ```
-getItems(locale:string) -> [Item]
+get_items(locale:string) -> [Item]
 ```
 
 * Throws an exception if unable to download images
@@ -26,8 +26,8 @@ where `Item` is the following class:
 {
     name:string,
     description:string,
-    imageURL:string,
-    imagePath:string
+    image_url:string,
+    image_path:string
 }
 ```
 
@@ -35,8 +35,8 @@ where `Item` is the following class:
 Return, for a given streamer name, a screenshot of his stream.
 
 ```
-getScreenshot(streamerName:string) -> {
-    screenshotPath:string
+get_screenshot(streamer_name:string) -> {
+    screenshot_path:string
 }
 ```
 
@@ -49,7 +49,7 @@ getScreenshot(streamerName:string) -> {
 Parse the given screenshot, looking for items (as returned by `getItems()`) in it.
 
 ```
-parseScreenshot(screenshotPath, items) -> [{
+parse_screenshot(screenshot_path, items) -> [{
     rect: Rect,
     item: Item
 }]
