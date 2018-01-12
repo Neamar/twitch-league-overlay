@@ -222,5 +222,37 @@
     "stats": "<li>+500 Health</li>",
     "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2045.png",
     "name": "Ruby Sightstone"
+  },
+  {
+    "description": "<br><br><unique>UNIQUE Passive:</unique> +20% Cooldown Reduction<br><unique>UNIQUE Passive:</unique> Dealing magic damage to champions below 35% Health inflicts <a href='GrievousWounds'>Grievous Wounds</a> for 8 seconds.<br><unique>UNIQUE Passive:</unique> Kills and Assists restore 20% of your maximum Mana.",
+    "id": "3165",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3165.png",
+    "stats": "<li>+100 Ability Power</li>\n<li><mana>+400 Mana</mana></li>",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3165.png",
+    "name": "Morellonomicon"
+  },
+  {
+    "description": "<br><br><mana><passive>UNIQUE Passive:</passive> Restores 4 Mana upon killing a unit.</mana>",
+    "id": "1056",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1056.png",
+    "stats": "<li>+60 Health</li>\n<li>+15 Ability Power</li>\n<li><mana>+50% Base Mana Regen </mana></li>",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1056.png",
+    "name": "Doran's Ring"
+  },
+  {
+    "description": "",
+    "id": "1052",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1052.png",
+    "stats": "<li>+20 Ability Power</li>",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1052.png",
+    "name": "Amplifying Tome"
+  },
+  {
+    "description": "<groupLimit>Limited to 1 pair of boots.</groupLimit><br><br><br><br><unique>UNIQUE Passive - Enhanced Movement:</unique> +45 Movement Speed",
+    "id": "3006",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3006.png",
+    "stats": "<li> +35% Attack Speed</li>",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3006.png",
+    "name": "Berserker's Greaves"
   }
 ]
