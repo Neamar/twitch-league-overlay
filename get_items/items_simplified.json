@@ -49,10 +49,10 @@
     "name": "Zhonya's Hourglass"
   },
   {
-    "id": "3134",
+    "id": "3748",
     "description": "TBD",
-    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3134.png",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3134.png",
-    "name": "Serrated Dirk"
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3748.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3748.png",
+    "name": "Titanic Hydra"
   }
 ]

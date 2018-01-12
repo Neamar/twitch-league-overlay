@@ -42,7 +42,7 @@ def find_item_in_screenshot(screenshot_cv2_data, item):
                     "y": potential_point[1],
                     "w": w * r,
                     "h": h * r,
-                    "value": value,
+                    "value": int(value * 100),
                 })
     for point in points:
         print("Found %s at (%s, %s, %s, %s), value %s" % (item['name'], point['x'], point['y'], point['w'], point['h'], point['value']))
@@ -59,16 +59,32 @@ def parse_screenshot(screenshot_path, items):
 
         # Dictionary of x, y, w, h, value
         points = find_item_in_screenshot(original, item)
-        items_position.append(points)
 
-        for pt in points:
-            cv2.rectangle(img_rgb, (pt['x'], pt['y']), (pt['x'] + int(pt['w']), pt['y'] + int(pt['h'])), (0, 0, 255), 2)
+        for point in points:
+            items_position.append({
+                "item": item,
+                "position": {
+                    "x": int(point["x"]),
+                    "y": int(point["y"]),
+                    "w": int(point["w"]),
+                    "h": int(point["h"]),
+                },
+            })
 
-    cv2.imwrite('res.png', img_rgb)
+    return items_position
 
 if __name__ == "__main__":
     screenshot_path = "stream1.png"
     with open('../get_items/items_simplified.json') as f:
         items = json.loads(f.read())
 
-    parse_screenshot(screenshot_path, items)
+    items_position = parse_screenshot(screenshot_path, items)
+
+    img_rgb = cv2.imread(screenshot_path)
+    for item_position in items_position:
+        cv2.rectangle(img_rgb, (item_position['position']['x'], item_position['position']['y']), (item_position['position']['x'] + int(item_position['position']['w']), item_position['position']['y'] + int(item_position['position']['h'])), (0, 0, 255), 2)
+
+    cv2.imwrite('res.png', img_rgb)
+
+    with open('../fake_html_scaffold/data.json', 'w') as f:
+        f.write(json.dumps(items_position, indent=2))
