@@ -27,27 +27,27 @@ def parse_screenshot(screenshot_path, items):
             threshold = 0.7
             loc = np.where(res >= threshold)
 
-            potential_points = list(zip(*loc[::-1]))
-            if len(points) > 0:
-                print("Got %s potential match(es) for %s" % (len(points), item['name']))
+            potential_points = zip(*loc[::-1])
             for potential_point in potential_points:
                 already_exists = False
                 for point in points:
                     if abs(point['x'] - potential_point[0]) < point['ratio'] * w and abs(point['y'] - potential_point[1]) < point['ratio'] * h:
-                        print("Existing match.")
                         # We already know about this match, potentially update value
-                        point['value'] = max(point['value'], res[potential_point[0], potential_point[1]])
-                    else:
-                        print("New match")
-                        points.append({
-                            "x": potential_point[0],
-                            "y": potential_point[1],
-                            "ratio": r,
-                            "value": res[potential_point[0]][potential_point[1]]
-                        })
+                        point['value'] = max(point['value'], res[potential_point[1], potential_point[0]])
+                        already_exists = True
+                        break
+                if not already_exists:
+                    print("New match")
+                    points.append({
+                        "x": potential_point[0],
+                        "y": potential_point[1],
+                        "ratio": r,
+                        "value": res[potential_point[1]][potential_point[0]]
+                    })
 
-        for pt in potential_points:
-            cv2.rectangle(img_rgb, pt, (pt[0] + int(w * r), pt[1] + int(h * r)), (0, 0, 255), 2)
+        for pt in points:
+            print(pt)
+            cv2.rectangle(img_rgb, (pt['x'], pt['y']), (pt['x'] + int(w * pt['ratio']), pt['y'] + int(h * pt['ratio'])), (0, 0, 255), 2)
 
     cv2.imwrite('res.png', img_rgb)
 
