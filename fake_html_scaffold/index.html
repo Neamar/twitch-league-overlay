@@ -132,8 +132,8 @@ $(function() {
       hasDisplayedBlock = true;
     }
 
-    var mouseX = e.pageX - img.getBoundingClientRect().x;
-    var mouseY = e.pageY - img.getBoundingClientRect().y;
+    var mouseX = e.layerX;
+    var mouseY = e.layerY;
     console.log(mouseX, mouseY);
     var convertedClientX = mouseX / ratio;
     var convertedClientY = mouseY / ratio;
