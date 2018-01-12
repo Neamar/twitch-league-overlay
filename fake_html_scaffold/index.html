@@ -28,6 +28,30 @@ var data = [
         Tons of damage
       </p>
     </div>
+  `},
+  {
+    x: 716,
+    y: 332,
+    w: 33,
+    h: 33,
+    content: `
+    <div class="ritoverlay-title">Liandry's Torment</div>
+    <div class="ritoverlay-attributes">
+      <ul>
+        <li>+25 something</li>
+        <li>+25 something else</li>
+        <li>+15% something</li>
+      </ul>
+    </div>
+
+    <div class="ritoverlay-text">
+      <p>
+        <strong>UNIQUE passive:rage:</strong> Basic
+      </p>
+      <p>
+        Tons of damage
+      </p>
+    </div>
   `}
 ];
 
@@ -36,6 +60,8 @@ $(function() {
 
   var img = document.getElementById('stream');
   var ritoverlay = document.getElementById('ritoverlay');
+  var wrapper = document.getElementById('wrapper');
+  var hasDisplayedBlock = false;
 
   img.addEventListener('mousemove', function(e) {
     var originalWidth = img.naturalWidth;
@@ -44,14 +70,22 @@ $(function() {
     var currentHeight = img.height;
     var ratio = currentWidth / originalWidth;
 
+    if(!hasDisplayedBlock) {
+      data.forEach(function(d) {
+        wrapper.innerHTML += `<div style="width:${d.w * ratio}px; height: ${d.h * ratio}px; position: absolute; left: ${d.x * ratio}px; top: ${d.y * ratio}px; background-color: rgba(255, 0, 0, 0.4);"></div>`;
+      });
+      hasDisplayedBlock = true;
+    }
+
     var mouseX = e.pageX - img.offsetLeft;
     var mouseY = e.pageY - img.offsetTop;
     var convertedClientX = mouseX / ratio;
     var convertedClientY = mouseY / ratio;
 
+    console.log(mouseX, mouseY, img.offsetLeft);
 
     var matchingTooltip = data.filter(function(d) {
-      return Math.abs(d.x - convertedClientX) < d.w && Math.abs(d.y - convertedClientY) < d.h;
+      return Math.abs(d.x - convertedClientX) < d.w * ratio && Math.abs(d.y - convertedClientY) < d.h * ratio;
     });
 
     if(matchingTooltip.length > 0) {
@@ -69,7 +103,7 @@ $(function() {
     </script>
   </head>
   <body>
-    <div style="position: relative">
+    <div style="position: relative" id="wrapper">
       <div class="ritoverlay" id="ritoverlay" style="display: none; position: absolute;"></div>
       <img src="../screenshots/stream1.png" id="stream" style="width: 100%"/>
     </div>
