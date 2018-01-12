@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>Fake Overlay</title>
+    <style type="text/css">
+    </style>
+    <script
+  src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+  integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
+  crossorigin="anonymous"></script>
+    <script>
+      $(function() {
+        "use strict";
+        $('#stream').on('mousemove', function(e) {
+          console.log(e.clientX, e.clientY);
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <img src="../screenshots/stream1.png" id="stream" style="width: 100%"/>
+  </body>
+</html>
