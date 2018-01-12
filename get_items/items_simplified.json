@@ -12,5 +12,26 @@
     "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3151.png",
     "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3151.png",
     "name": "Liandry's Torment"
+  },
+  {
+    "id": "3065",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3065.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3065.png",
+    "name": "Spirit Visage"
+  },
+  {
+    "id": "3087",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3087.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3087.png",
+    "name": "Statikk Shiv"
+  },
+  {
+    "id": "3078",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3078.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3078.png",
+    "name": "Trinity Force"
   }
 ]

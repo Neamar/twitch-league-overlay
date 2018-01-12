@@ -11,6 +11,7 @@ def find_item_in_screenshot(screenshot_cv2_data, item):
     """
     points = []
     template = cv2.imread(item['image_path'], 0)
+
     w, h = template.shape[::-1]
 
     for scale in np.linspace(0.2, 1.0, 20)[::-1]:
@@ -47,13 +48,13 @@ def find_item_in_screenshot(screenshot_cv2_data, item):
 
 def parse_screenshot(screenshot_path, items):
     img_rgb = cv2.imread(screenshot_path)
-    img_gray = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)
+    original = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)
 
     for item in items:
         print(" Looking for %s" % item['name'])
 
         # Dictionary of x, y, w, h, value
-        points = find_item_in_screenshot(img_gray, item)
+        points = find_item_in_screenshot(original, item)
 
         for pt in points:
             cv2.rectangle(img_rgb, (pt['x'], pt['y']), (pt['x'] + int(pt['w']), pt['y'] + int(pt['h'])), (0, 0, 255), 2)
