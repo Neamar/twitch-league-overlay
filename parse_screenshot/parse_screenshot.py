@@ -4,6 +4,14 @@ import imutils
 import json
 
 
+def find_item_in_screenshot(screenshot_cv2_data, item):
+    """
+    Find all occurrences of item in screenshot_cv2_data,
+    Returns an array of dictionary(x, y, w, h, value)
+    """
+    pass
+
+
 def parse_screenshot(screenshot_path, items):
     img_rgb = cv2.imread(screenshot_path)
     img_gray = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)
@@ -31,23 +39,23 @@ def parse_screenshot(screenshot_path, items):
             for potential_point in potential_points:
                 already_exists = False
                 for point in points:
-                    if abs(point['x'] - potential_point[0]) < point['ratio'] * w and abs(point['y'] - potential_point[1]) < point['ratio'] * h:
+                    if abs(point['x'] - potential_point[0]) < point['w'] and abs(point['y'] - potential_point[1]) < point['h']:
                         # We already know about this match, potentially update value
                         point['value'] = max(point['value'], res[potential_point[1], potential_point[0]])
                         already_exists = True
                         break
                 if not already_exists:
-                    print("New match")
+                    print("New match for %s at (%s, %s)" % (item['name'], potential_point[0], potential_point[1]))
                     points.append({
                         "x": potential_point[0],
                         "y": potential_point[1],
-                        "ratio": r,
+                        "w": w * r,
+                        "h": h * r,
                         "value": res[potential_point[1]][potential_point[0]]
                     })
 
         for pt in points:
-            print(pt)
-            cv2.rectangle(img_rgb, (pt['x'], pt['y']), (pt['x'] + int(w * pt['ratio']), pt['y'] + int(h * pt['ratio'])), (0, 0, 255), 2)
+            cv2.rectangle(img_rgb, (pt['x'], pt['y']), (pt['x'] + int(pt['w']), pt['y'] + int(pt['h'])), (0, 0, 255), 2)
 
     cv2.imwrite('res.png', img_rgb)
 
