@@ -61,7 +61,7 @@ $(function() {
       ritoverlay.style.bottom = img.height - mouseY + 24;
 
       var stats = tooltip.item.stats;
-      var description = tooltip.item.description.replace(/<unique>/g, '<strong>').replace(/<\/unique>/g, '</strong>');
+      var description = tooltip.item.description.replace(/<unique>/g, '<strong>').replace(/<\/unique>/g, '</strong>').replace(/<br>(<br>)+/g, '<br>').replace(/^<br>/, '');
 
       console.log(stats);
       ritoverlay.innerHTML = overlayTemplate
