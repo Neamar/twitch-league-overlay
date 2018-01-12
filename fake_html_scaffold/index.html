@@ -4,14 +4,8 @@
     <link rel="stylesheet" href="ritoverlay.css">
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
     <script>
-var data = [
-  {
-    x: 1163,
-    y: 956,
-    w: 40,
-    h: 40,
-    content: `
-    <div class="ritoverlay-title">Trinity force</div>
+var sorcererShoe = `
+    <div class="ritoverlay-title">Sorcerer's shoe</div>
     <div class="ritoverlay-attributes">
       <ul>
         <li>+25 something</li>
@@ -27,14 +21,9 @@ var data = [
       <p>
         Tons of damage
       </p>
-    </div>
-  `},
-  {
-    x: 716,
-    y: 332,
-    w: 33,
-    h: 33,
-    content: `
+    </div>`;
+
+var liandryTorment = `
     <div class="ritoverlay-title">Liandry's Torment</div>
     <div class="ritoverlay-attributes">
       <ul>
@@ -51,8 +40,67 @@ var data = [
       <p>
         Tons of damage
       </p>
-    </div>
-  `}
+    </div>`;
+
+// New match for Sorcerer's Shoes at (1163, 956)
+// New match for Sorcerer's Shoes at (851, 331)
+// New match for Sorcerer's Shoes at (1388, 407)
+// New match for Sorcerer's Shoes at (1388, 635)
+//  Looking for Liandry's Torment
+// New match for Liandry's Torment at (716, 332)
+// New match for Liandry's Torment at (716, 484)
+// New match for Liandry's Torment at (1287, 484)
+
+var data = [
+  {
+    x: 1163,
+    y: 956,
+    w: 40,
+    h: 40,
+    content: sorcererShoe
+  },
+  {
+    x: 851,
+    y: 331,
+    w: 33,
+    h: 33,
+    content: sorcererShoe
+  },
+  {
+    x: 1388,
+    y: 407,
+    w: 33,
+    h: 33,
+    content: sorcererShoe
+  },
+  {
+    x: 1388,
+    y: 635,
+    w: 33,
+    h: 33,
+    content: sorcererShoe
+  },
+  {
+    x: 716,
+    y: 332,
+    w: 33,
+    h: 33,
+    content: liandryTorment
+  },
+  {
+    x: 716,
+    y: 484,
+    w: 33,
+    h: 33,
+    content: liandryTorment
+  },
+  {
+    x: 1287,
+    y: 484,
+    w: 33,
+    h: 33,
+    content: liandryTorment
+  },
 ];
 
 $(function() {
@@ -91,7 +139,7 @@ $(function() {
     var convertedClientY = mouseY / ratio;
 
     var matchingTooltip = data.filter(function(d) {
-      return Math.abs(d.x + d.w / 2 - convertedClientX) < d.w * ratio && Math.abs(d.y + d.h / 2 - convertedClientY) < d.h * ratio;
+      return Math.abs(d.x + d.w / 2 - convertedClientX) < d.w * ratio / 2 && Math.abs(d.y + d.h / 2 - convertedClientY) < d.h * ratio / 2;
     });
 
     if(matchingTooltip.length > 0) {
