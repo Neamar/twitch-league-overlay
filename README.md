@@ -1,4 +1,5 @@
 # Twitch League Of Legends overlay
+See [goals.md](goals.md) for a description of what we're trying to achieve.
 
 ## Components
 ### getItems
