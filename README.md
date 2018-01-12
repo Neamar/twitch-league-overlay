@@ -6,7 +6,7 @@ See [goals.md](goals.md) for a description of what we're trying to achieve.
 python3 -m venv venv
 
 # Then, every time, run
-./venv/bin/activate
+source ./venv/bin/activate
 ```
 
 ## Components
