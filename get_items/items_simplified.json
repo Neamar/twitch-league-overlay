@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3020",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3020.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3020.png",
+    "name": "Sorcerer's Shoes"
+  },
+  {
+    "id": "3151",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3151.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3151.png",
+    "name": "Liandry's Torment"
+  }
+]

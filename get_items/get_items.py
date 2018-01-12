@@ -1,5 +1,6 @@
 import requests
 import json
+import os
 
 PATCH = "8.1.1"
 image_template = "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/%s"
@@ -26,7 +27,8 @@ def get_items():
                  "id": item_id,
                  "name": item_data['name'],
                  "description": 'TBD',  # item_data['description'],
-                 "image_url": image_url
+                 "image_url": image_url,
+                 "image_path": os.path.abspath('items/%s.png' % item_id)
               })
 
     return items
@@ -36,4 +38,3 @@ if __name__ == "__main__":
     print(items)
     with open('items.json', 'w') as f:
         f.write(json.dumps(items, indent=2))
-
