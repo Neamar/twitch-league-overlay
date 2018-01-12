@@ -16,6 +16,10 @@
   border: 2px solid #785A28;
 }
 
+.ritoverlay a {
+  color: #F0E6D2;
+}
+
 .ritoverlay:before,
 .ritoverlay:after {
   position: absolute;
@@ -56,9 +60,10 @@
   font-size: 16px;
 }
 
-.ritoverlay-attributes {
+.ritoverlay-attributes, .ritoverlay-attributes a {
   color: #98FE99;
 }
+
 
 .ritoverlay-attributes ul {
   list-style: none;

@@ -9,7 +9,7 @@ var overlayTemplate = `
     <div class="ritoverlay-title">{{name}}</div>
     <div class="ritoverlay-attributes">
       <ul>
-        {{attributes}}
+        {{stats}}
       </ul>
     </div>
 
@@ -59,7 +59,15 @@ $(function() {
       ritoverlay.style.display = 'block';
       ritoverlay.style.left = mouseX - 25;
       ritoverlay.style.bottom = img.height - mouseY + 24;
-      ritoverlay.innerHTML = overlayTemplate.replace('{{name}}', tooltip.item.name).replace('{{text}}', tooltip.item.description);
+
+      var stats = tooltip.item.stats;
+      var description = tooltip.item.description.replace(/<unique>/g, '<strong>').replace(/<\/unique>/g, '</strong>');
+
+      console.log(stats);
+      ritoverlay.innerHTML = overlayTemplate
+        .replace('{{name}}', tooltip.item.name)
+        .replace('{{stats}}', stats)
+        .replace('{{text}}', description);
     }
     else {
       ritoverlay.style.display = 'none';
