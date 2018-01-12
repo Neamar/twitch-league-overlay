@@ -1,1682 +1,1962 @@
 [
   {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3001.png",
-    "id": "3001",
-    "name": "Abyssal Mask"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3380.png",
-    "id": "3380",
-    "name": "The Obsidian Cleaver"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3222.png",
-    "id": "3222",
-    "name": "Mikael's Crucible"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2058.png",
-    "id": "2058",
-    "name": "Travel Size Elixir of Iron"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2140.png",
-    "id": "2140",
-    "name": "Elixir of Wrath"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3109.png",
-    "id": "3109",
-    "name": "Knight's Vow"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2033.png",
-    "id": "2033",
-    "name": "Corrupting Potion"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3364.png",
-    "id": "3364",
-    "name": "Oracle Alteration"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1027.png",
-    "id": "1027",
-    "name": "Sapphire Crystal"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3142.png",
-    "id": "3142",
-    "name": "Youmuu's Ghostblade"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3027.png",
-    "id": "3027",
-    "name": "Rod of Ages"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3694.png",
-    "id": "3694",
-    "name": "Cloak of Stars"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2302.png",
-    "id": "2302",
-    "name": "Eye of the Oasis"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3041.png",
-    "id": "3041",
-    "name": "Mejai's Soulstealer"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3198.png",
-    "id": "3198",
-    "name": "Perfect Hex Core"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2047.png",
-    "id": "2047",
-    "name": "Oracle's Extract"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3156.png",
-    "id": "3156",
-    "name": "Maw of Malmortius"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3382.png",
-    "id": "3382",
-    "name": "Salvation"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3133.png",
-    "id": "3133",
-    "name": "Caulfield's Warhammer"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3692.png",
-    "id": "3692",
-    "name": "Dark Matter Scythe"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1028.png",
-    "id": "1028",
-    "name": "Ruby Crystal"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3111.png",
-    "id": "3111",
-    "name": "Mercury's Treads"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2049.png",
-    "id": "2049",
-    "name": "Sightstone"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3144.png",
-    "id": "3144",
-    "name": "Bilgewater Cutlass"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3645.png",
-    "id": "3645",
-    "name": "Seer Stone (Trinket)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3158.png",
-    "id": "3158",
-    "name": "Ionian Boots of Lucidity"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3197.png",
-    "id": "3197",
-    "name": "The Hex Core mk-2"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3410.png",
-    "id": "3410",
-    "name": "Head of Kha'Zix"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3116.png",
-    "id": "3116",
-    "name": "Rylai's Crystal Scepter"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2057.png",
-    "id": "2057",
-    "name": "Peering Farsight Ward"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1413.png",
-    "id": "1413",
-    "name": "Enchantment: Cinderhulk"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3193.png",
-    "id": "3193",
-    "name": "Gargoyle Stoneplate"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2056.png",
-    "id": "2056",
-    "name": "Pilfered Stealth Ward"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3078.png",
-    "id": "3078",
-    "name": "Trinity Force"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1412.png",
-    "id": "1412",
-    "name": "Enchantment: Warrior"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3100.png",
-    "id": "3100",
-    "name": "Lich Bane"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2060.png",
-    "id": "2060",
-    "name": "Travel Size Elixir of Wrath"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3036.png",
-    "id": "3036",
-    "name": "Lord Dominik's Regards"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3194.png",
-    "id": "3194",
-    "name": "Adaptive Helm"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3052.png",
-    "id": "3052",
-    "name": "Jaurim's Fist"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1083.png",
-    "id": "1083",
-    "name": "Cull"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3200.png",
-    "id": "3200",
-    "name": "Prototype Hex Core"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2053.png",
-    "id": "2053",
-    "name": "Raptor Cloak"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3056.png",
-    "id": "3056",
-    "name": "Ohmwrecker"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3147.png",
-    "id": "3147",
-    "name": "Duskblade of Draktharr"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3057.png",
-    "id": "3057",
-    "name": "Sheen"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2045.png",
-    "id": "2045",
-    "name": "Ruby Sightstone"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3801.png",
-    "id": "3801",
-    "name": "Crystalline Bracer"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2004.png",
-    "id": "2004",
-    "name": "Mana Potion"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3152.png",
-    "id": "3152",
-    "name": "Hextech Protobelt-01"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3030.png",
-    "id": "3030",
-    "name": "Hextech GLP-800"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1006.png",
-    "id": "1006",
-    "name": "Rejuvenation Bead"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3087.png",
-    "id": "3087",
-    "name": "Statikk Shiv"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3682.png",
-    "id": "3682",
-    "name": "Espresso Snax"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3069.png",
-    "id": "3069",
-    "name": "Talisman of Ascension"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3341.png",
-    "id": "3341",
-    "name": "Sweeping Lens (Trinket)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3157.png",
-    "id": "3157",
-    "name": "Zhonya's Hourglass"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3084.png",
-    "id": "3084",
-    "name": "Overlord's Bloodmail"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3083.png",
-    "id": "3083",
-    "name": "Warmog's Armor"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2055.png",
-    "id": "2055",
-    "name": "Control Ward"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3681.png",
-    "id": "3681",
-    "name": "Super Spicy Snax"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3003.png",
-    "id": "3003",
-    "name": "Archangel's Staff"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3190.png",
-    "id": "3190",
-    "name": "Locket of the Iron Solari"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3035.png",
-    "id": "3035",
-    "name": "Last Whisper"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3086.png",
-    "id": "3086",
-    "name": "Zeal"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3145.png",
-    "id": "3145",
-    "name": "Hextech Revolver"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3691.png",
-    "id": "3691",
-    "name": "Singularity Lantern"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3693.png",
-    "id": "3693",
-    "name": "Gravity Boots"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1057.png",
-    "id": "1057",
-    "name": "Negatron Cloak"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3348.png",
-    "id": "3348",
-    "name": "Arcane Sweeper"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3901.png",
-    "id": "3901",
-    "name": "Fire at Will"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3115.png",
-    "id": "3115",
-    "name": "Nashor's Tooth"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3065.png",
-    "id": "3065",
-    "name": "Spirit Visage"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2009.png",
-    "id": "2009",
-    "name": "Total Biscuit of Rejuvenation"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2054.png",
-    "id": "2054",
-    "name": "Diet Poro-Snax"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3673.png",
-    "id": "3673",
-    "name": "Enchantment: Runic Echoes"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3098.png",
-    "id": "3098",
-    "name": "Frostfang"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3053.png",
-    "id": "3053",
-    "name": "Sterak's Gage"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3340.png",
-    "id": "3340",
-    "name": "Warding Totem (Trinket)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3648.png",
-    "id": "3648",
-    "name": "Siege Teleport (Inactive)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3683.png",
-    "id": "3683",
-    "name": "Rainbow Snax Party Pack!"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3641.png",
-    "id": "3641",
-    "name": "Vanguard Banner"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1018.png",
-    "id": "1018",
-    "name": "Cloak of Agility"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3512.png",
-    "id": "3512",
-    "name": "Zz'Rot Portal"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3082.png",
-    "id": "3082",
-    "name": "Warden's Mail"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3046.png",
-    "id": "3046",
-    "name": "Phantom Dancer"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3690.png",
-    "id": "3690",
-    "name": "Cosmic Shackle"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3097.png",
-    "id": "3097",
-    "name": "Targon's Brace"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3031.png",
-    "id": "3031",
-    "name": "Infinity Edge"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2062.png",
-    "id": "2062",
-    "name": "Pilfered Potion of Rouge"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3513.png",
-    "id": "3513",
-    "name": "Eye of the Herald"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3191.png",
-    "id": "3191",
-    "name": "Seeker's Armguard"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2138.png",
-    "id": "2138",
-    "name": "Elixir of Iron"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3671.png",
-    "id": "3671",
-    "name": "Enchantment: Warrior"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3117.png",
-    "id": "3117",
-    "name": "Boots of Mobility"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3067.png",
-    "id": "3067",
-    "name": "Kindlegem"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3008.png",
-    "id": "3008",
-    "name": "Manamune (Quick Charge)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3384.png",
-    "id": "3384",
-    "name": "Trinity Fusion"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3140.png",
-    "id": "3140",
-    "name": "Quicksilver Sash"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3174.png",
-    "id": "3174",
-    "name": "Athene's Unholy Grail"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3075.png",
-    "id": "3075",
-    "name": "Thornmail"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3599.png",
-    "id": "3599",
-    "name": "The Black Spear"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3170.png",
-    "id": "3170",
-    "name": "Moonflair Spellblade"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3285.png",
-    "id": "3285",
-    "name": "Luden's Echo"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3814.png",
-    "id": "3814",
-    "name": "Edge of Night"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3672.png",
-    "id": "3672",
-    "name": "Enchantment: Cinderhulk"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3033.png",
-    "id": "3033",
-    "name": "Mortal Reminder"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1416.png",
-    "id": "1416",
-    "name": "Enchantment: Bloodrazor"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3635.png",
-    "id": "3635",
-    "name": "Port Pad"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3361.png",
-    "id": "3361",
-    "name": "Greater Stealth Totem (Trinket)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3371.png",
-    "id": "3371",
-    "name": "Molten Edge"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3630.png",
-    "id": "3630",
-    "name": "Siege Teleport"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1051.png",
-    "id": "1051",
-    "name": "Brawler's Gloves"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3105.png",
-    "id": "3105",
-    "name": "Aegis of the Legion"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3070.png",
-    "id": "3070",
-    "name": "Tear of the Goddess"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2010.png",
-    "id": "2010",
-    "name": "Total Biscuit of Everlasting Will"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1053.png",
-    "id": "1053",
-    "name": "Vampiric Scepter"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1418.png",
-    "id": "1418",
-    "name": "Enchantment: Bloodrazor"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3640.png",
-    "id": "3640",
-    "name": "Flash Zone"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2013.png",
-    "id": "2013",
-    "name": "Looted Oracle's Extract"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2051.png",
-    "id": "2051",
-    "name": "Guardian's Horn"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3715.png",
-    "id": "3715",
-    "name": "Skirmisher's Sabre"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3462.png",
-    "id": "3462",
-    "name": "Seer Stone (Trinket)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3345.png",
-    "id": "3345",
-    "name": "Soul Anchor (Trinket)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3675.png",
-    "id": "3675",
-    "name": "Enchantment: Bloodrazor"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3211.png",
-    "id": "3211",
-    "name": "Spectre's Cowl"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1033.png",
-    "id": "1033",
-    "name": "Null-Magic Mantle"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2050.png",
-    "id": "2050",
-    "name": "Explorer's Ward"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3050.png",
-    "id": "3050",
-    "name": "Zeke's Convergence"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3071.png",
-    "id": "3071",
-    "name": "The Black Cleaver"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2301.png",
-    "id": "2301",
-    "name": "Eye of the Watchers"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3184.png",
-    "id": "3184",
-    "name": "Guardian's Hammer"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3102.png",
-    "id": "3102",
-    "name": "Banshee's Veil"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1402.png",
-    "id": "1402",
-    "name": "Enchantment: Runic Echoes"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3634.png",
-    "id": "3634",
-    "name": "Tower: Beam of Ruination"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3374.png",
-    "id": "3374",
-    "name": "Rabadon's Deathcrown"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1055.png",
-    "id": "1055",
-    "name": "Doran's Blade"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3460.png",
-    "id": "3460",
-    "name": "Golden Transcendence"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3048.png",
-    "id": "3048",
-    "name": "Seraph's Embrace"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2422.png",
-    "id": "2422",
-    "name": "Slightly Magical Boots"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3386.png",
-    "id": "3386",
-    "name": "Zhonya's Paradox"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3110.png",
-    "id": "3110",
-    "name": "Frozen Heart"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1042.png",
-    "id": "1042",
-    "name": "Dagger"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2319.png",
-    "id": "2319",
-    "name": "Sly Sack of Gold"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3373.png",
-    "id": "3373",
-    "name": "Forgefire Cape"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1038.png",
-    "id": "1038",
-    "name": "B. F. Sword"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1082.png",
-    "id": "1082",
-    "name": "The Dark Seal"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3362.png",
-    "id": "3362",
-    "name": "Greater Vision Totem (Trinket)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3007.png",
-    "id": "3007",
-    "name": "Archangel's Staff (Quick Charge)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3303.png",
-    "id": "3303",
-    "name": "Spellthief's Edge"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3094.png",
     "id": "3094",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3094.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3094.png",
     "name": "Rapid Firecannon"
   },
   {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1004.png",
-    "id": "1004",
-    "name": "Faerie Charm"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3068.png",
-    "id": "3068",
-    "name": "Sunfire Cape"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3137.png",
-    "id": "3137",
-    "name": "Dervish Blade"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3711.png",
-    "id": "3711",
-    "name": "Tracker's Knife"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1036.png",
-    "id": "1036",
-    "name": "Long Sword"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3633.png",
-    "id": "3633",
-    "name": "Siege Teleport"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3022.png",
-    "id": "3022",
-    "name": "Frozen Mallet"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3301.png",
-    "id": "3301",
-    "name": "Ancient Coin"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3379.png",
-    "id": "3379",
-    "name": "Infernal Mask"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3134.png",
-    "id": "3134",
-    "name": "Serrated Dirk"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3040.png",
-    "id": "3040",
-    "name": "Seraph's Embrace"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3042.png",
-    "id": "3042",
-    "name": "Muramana"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3422.png",
-    "id": "3422",
-    "name": "Head of Kha'Zix"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3363.png",
-    "id": "3363",
-    "name": "Farsight Alteration"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3302.png",
-    "id": "3302",
-    "name": "Relic Shield"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3114.png",
-    "id": "3114",
-    "name": "Forbidden Idol"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2015.png",
-    "id": "2015",
-    "name": "Kircheis Shard"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3004.png",
-    "id": "3004",
-    "name": "Manamune"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3043.png",
-    "id": "3043",
-    "name": "Muramana"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3504.png",
-    "id": "3504",
-    "name": "Ardent Censer"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3006.png",
-    "id": "3006",
-    "name": "Berserker's Greaves"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3029.png",
-    "id": "3029",
-    "name": "Rod of Ages (Quick Charge)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3649.png",
-    "id": "3649",
-    "name": "Siege Sight Warder"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1419.png",
-    "id": "1419",
-    "name": "Enchantment: Bloodrazor"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3026.png",
-    "id": "3026",
-    "name": "Guardian Angel"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2011.png",
-    "id": "2011",
-    "name": "Elixir Of Skill"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3025.png",
-    "id": "3025",
-    "name": "Iceborn Gauntlet"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3143.png",
-    "id": "3143",
-    "name": "Randuin's Omen"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3461.png",
-    "id": "3461",
-    "name": "Golden Transcendence (Disabled)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3165.png",
-    "id": "3165",
-    "name": "Morellonomicon"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3122.png",
-    "id": "3122",
-    "name": "Wicked Hatchet"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3647.png",
-    "id": "3647",
-    "name": "Shield Totem"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1026.png",
-    "id": "1026",
-    "name": "Blasting Wand"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3024.png",
-    "id": "3024",
-    "name": "Glacial Shroud"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3155.png",
-    "id": "3155",
-    "name": "Hexdrinker"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3695.png",
-    "id": "3695",
-    "name": "Dark Star Sigil"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1409.png",
-    "id": "1409",
-    "name": "Enchantment: Cinderhulk"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3902.png",
-    "id": "3902",
-    "name": "Death's Daughter"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3383.png",
-    "id": "3383",
-    "name": "Circlet of the Iron Solari"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2012.png",
-    "id": "2012",
-    "name": "Looted Biscuit of Rejuvenation"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3073.png",
-    "id": "3073",
-    "name": "Tear of the Goddess (Quick Charge)"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3751.png",
-    "id": "3751",
-    "name": "Bami's Cinder"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3034.png",
-    "id": "3034",
-    "name": "Giant Slayer"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3252.png",
-    "id": "3252",
-    "name": "Poacher's Dirk"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3680.png",
-    "id": "3680",
-    "name": "Frosted Snax"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3113.png",
-    "id": "3113",
-    "name": "Aether Wisp"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1041.png",
-    "id": "1041",
-    "name": "Hunter's Machete"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2059.png",
-    "id": "2059",
-    "name": "Travel Size Elixir of Sorcery"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3107.png",
-    "id": "3107",
-    "name": "Redemption"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3091.png",
-    "id": "3091",
-    "name": "Wit's End"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3108.png",
-    "id": "3108",
-    "name": "Fiendish Codex"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3748.png",
-    "id": "3748",
-    "name": "Titanic Hydra"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3636.png",
-    "id": "3636",
-    "name": "Tower: Storm Bulwark"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3903.png",
-    "id": "3903",
-    "name": "Raise Morale"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3092.png",
-    "id": "3092",
-    "name": "Frost Queen's Claim"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3631.png",
-    "id": "3631",
-    "name": "Siege Ballista"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2003.png",
-    "id": "2003",
-    "name": "Health Potion"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3009.png",
-    "id": "3009",
-    "name": "Boots of Swiftness"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1414.png",
-    "id": "1414",
-    "name": "Enchantment: Runic Echoes"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1043.png",
-    "id": "1043",
-    "name": "Recurve Bow"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3508.png",
-    "id": "3508",
-    "name": "Essence Reaver"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1052.png",
-    "id": "1052",
-    "name": "Amplifying Tome"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1037.png",
-    "id": "1037",
-    "name": "Pickaxe"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3139.png",
-    "id": "3139",
-    "name": "Mercurial Scimitar"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3076.png",
-    "id": "3076",
-    "name": "Bramble Vest"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2061.png",
-    "id": "2061",
-    "name": "Pilfered Health Potion"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3802.png",
-    "id": "3802",
-    "name": "Lost Chapter"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1056.png",
-    "id": "1056",
-    "name": "Doran's Ring"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2031.png",
-    "id": "2031",
-    "name": "Refillable Potion"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3637.png",
-    "id": "3637",
-    "name": "Nexus Siege: Siege Weapon Slot"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3124.png",
-    "id": "3124",
-    "name": "Guinsoo's Rageblade"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3072.png",
-    "id": "3072",
-    "name": "The Bloodthirster"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3044.png",
-    "id": "3044",
-    "name": "Phage"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1029.png",
-    "id": "1029",
-    "name": "Cloth Armor"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2419.png",
-    "id": "2419",
-    "name": "Commencing Stopwatch"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3146.png",
-    "id": "3146",
-    "name": "Hextech Gunblade"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3096.png",
-    "id": "3096",
-    "name": "Nomad's Medallion"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1001.png",
-    "id": "1001",
-    "name": "Boots of Speed"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3416.png",
-    "id": "3416",
-    "name": "Head of Kha'Zix"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3812.png",
-    "id": "3812",
-    "name": "Death's Dance"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3401.png",
-    "id": "3401",
-    "name": "Face of the Mountain"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3643.png",
     "id": "3643",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3643.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3643.png",
     "name": "Entropy Field"
   },
   {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3185.png",
-    "id": "3185",
-    "name": "The Lightbringer"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3074.png",
-    "id": "3074",
-    "name": "Ravenous Hydra"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1400.png",
-    "id": "1400",
-    "name": "Enchantment: Warrior"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3151.png",
-    "id": "3151",
-    "name": "Liandry's Torment"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3090.png",
-    "id": "3090",
-    "name": "Wooglet's Witchcap"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1410.png",
-    "id": "1410",
-    "name": "Enchantment: Runic Echoes"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3010.png",
-    "id": "3010",
-    "name": "Catalyst of Aeons"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3181.png",
-    "id": "3181",
-    "name": "Sanguine Blade"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3135.png",
-    "id": "3135",
-    "name": "Void Staff"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2403.png",
-    "id": "2403",
-    "name": "Minion Dematerializer"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1401.png",
-    "id": "1401",
-    "name": "Enchantment: Cinderhulk"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3028.png",
-    "id": "3028",
-    "name": "Chalice of Harmony"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2421.png",
-    "id": "2421",
-    "name": "Broken Stopwatch"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1058.png",
-    "id": "1058",
-    "name": "Needlessly Large Rod"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1031.png",
-    "id": "1031",
-    "name": "Chain Vest"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3187.png",
-    "id": "3187",
-    "name": "Arcane Sweeper"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3153.png",
-    "id": "3153",
-    "name": "Blade of the Ruined King"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2424.png",
-    "id": "2424",
-    "name": "Broken Stopwatch"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3123.png",
-    "id": "3123",
-    "name": "Executioner's Calling"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3175.png",
-    "id": "3175",
-    "name": "Head of Kha'Zix"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2303.png",
-    "id": "2303",
-    "name": "Eye of the Equinox"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3112.png",
-    "id": "3112",
-    "name": "Guardian's Orb"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3020.png",
-    "id": "3020",
-    "name": "Sorcerer's Shoes"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3101.png",
-    "id": "3101",
-    "name": "Stinger"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3136.png",
-    "id": "3136",
-    "name": "Haunting Guise"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3706.png",
-    "id": "3706",
-    "name": "Stalker's Blade"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2139.png",
-    "id": "2139",
-    "name": "Elixir of Sorcery"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1039.png",
-    "id": "1039",
-    "name": "Hunter's Talisman"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2420.png",
-    "id": "2420",
-    "name": "Stopwatch"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3077.png",
-    "id": "3077",
-    "name": "Tiamat"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3060.png",
-    "id": "3060",
-    "name": "Banner of Command"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3800.png",
-    "id": "3800",
-    "name": "Righteous Glory"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3104.png",
-    "id": "3104",
-    "name": "Lord Van Damm's Pillager"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1054.png",
-    "id": "1054",
-    "name": "Doran's Shield"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3085.png",
-    "id": "3085",
-    "name": "Runaan's Hurricane"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2423.png",
-    "id": "2423",
-    "name": "Stopwatch"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3742.png",
-    "id": "3742",
-    "name": "Dead Man's Plate"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3642.png",
-    "id": "3642",
-    "name": "Siege Refund"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2052.png",
-    "id": "2052",
-    "name": "Poro-Snax"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3047.png",
-    "id": "3047",
-    "name": "Ninja Tabi"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1011.png",
-    "id": "1011",
-    "name": "Giant's Belt"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3455.png",
-    "id": "3455",
-    "name": "Head of Kha'Zix"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1408.png",
-    "id": "1408",
-    "name": "Enchantment: Warrior"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3385.png",
-    "id": "3385",
-    "name": "Wooglet's Witchcrown"
-  },
-  {
-    "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3089.png",
     "id": "3089",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3089.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3089.png",
     "name": "Rabadon's Deathcap"
   },
   {
+    "id": "3085",
     "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2032.png",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3085.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3085.png",
+    "name": "Runaan's Hurricane"
+  },
+  {
+    "id": "1054",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1054.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1054.png",
+    "name": "Doran's Shield"
+  },
+  {
+    "id": "3383",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3383.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3383.png",
+    "name": "Circlet of the Iron Solari"
+  },
+  {
+    "id": "3401",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3401.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3401.png",
+    "name": "Face of the Mountain"
+  },
+  {
+    "id": "1039",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1039.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1039.png",
+    "name": "Hunter's Talisman"
+  },
+  {
+    "id": "3252",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3252.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3252.png",
+    "name": "Poacher's Dirk"
+  },
+  {
+    "id": "2140",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2140.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2140.png",
+    "name": "Elixir of Wrath"
+  },
+  {
+    "id": "3194",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3194.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3194.png",
+    "name": "Adaptive Helm"
+  },
+  {
+    "id": "3647",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3647.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3647.png",
+    "name": "Shield Totem"
+  },
+  {
+    "id": "2013",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2013.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2013.png",
+    "name": "Looted Oracle's Extract"
+  },
+  {
+    "id": "2062",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2062.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2062.png",
+    "name": "Pilfered Potion of Rouge"
+  },
+  {
+    "id": "3136",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3136.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3136.png",
+    "name": "Haunting Guise"
+  },
+  {
+    "id": "2055",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2055.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2055.png",
+    "name": "Control Ward"
+  },
+  {
+    "id": "1409",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1409.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1409.png",
+    "name": "Enchantment: Cinderhulk"
+  },
+  {
+    "id": "3364",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3364.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3364.png",
+    "name": "Oracle Alteration"
+  },
+  {
+    "id": "3348",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3348.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3348.png",
+    "name": "Arcane Sweeper"
+  },
+  {
     "id": "2032",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2032.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2032.png",
     "name": "Hunter's Potion"
   },
   {
+    "id": "3345",
     "description": "TBD",
-    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3196.png",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3345.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3345.png",
+    "name": "Soul Anchor (Trinket)"
+  },
+  {
+    "id": "3008",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3008.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3008.png",
+    "name": "Manamune (Quick Charge)"
+  },
+  {
+    "id": "3748",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3748.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3748.png",
+    "name": "Titanic Hydra"
+  },
+  {
+    "id": "3101",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3101.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3101.png",
+    "name": "Stinger"
+  },
+  {
+    "id": "3386",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3386.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3386.png",
+    "name": "Zhonya's Paradox"
+  },
+  {
+    "id": "2011",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2011.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2011.png",
+    "name": "Elixir Of Skill"
+  },
+  {
+    "id": "2053",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2053.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2053.png",
+    "name": "Raptor Cloak"
+  },
+  {
+    "id": "2054",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2054.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2054.png",
+    "name": "Diet Poro-Snax"
+  },
+  {
+    "id": "1042",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1042.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1042.png",
+    "name": "Dagger"
+  },
+  {
+    "id": "3097",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3097.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3097.png",
+    "name": "Targon's Brace"
+  },
+  {
+    "id": "3640",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3640.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3640.png",
+    "name": "Flash Zone"
+  },
+  {
+    "id": "3175",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3175.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3175.png",
+    "name": "Head of Kha'Zix"
+  },
+  {
+    "id": "3461",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3461.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3461.png",
+    "name": "Golden Transcendence (Disabled)"
+  },
+  {
+    "id": "3007",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3007.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3007.png",
+    "name": "Archangel's Staff (Quick Charge)"
+  },
+  {
+    "id": "1028",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1028.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1028.png",
+    "name": "Ruby Crystal"
+  },
+  {
+    "id": "3599",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3599.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3599.png",
+    "name": "The Black Spear"
+  },
+  {
+    "id": "3711",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3711.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3711.png",
+    "name": "Tracker's Knife"
+  },
+  {
+    "id": "3083",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3083.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3083.png",
+    "name": "Warmog's Armor"
+  },
+  {
+    "id": "1038",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1038.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1038.png",
+    "name": "B. F. Sword"
+  },
+  {
+    "id": "3181",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3181.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3181.png",
+    "name": "Sanguine Blade"
+  },
+  {
+    "id": "3139",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3139.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3139.png",
+    "name": "Mercurial Scimitar"
+  },
+  {
+    "id": "3692",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3692.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3692.png",
+    "name": "Dark Matter Scythe"
+  },
+  {
+    "id": "3374",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3374.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3374.png",
+    "name": "Rabadon's Deathcrown"
+  },
+  {
+    "id": "3508",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3508.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3508.png",
+    "name": "Essence Reaver"
+  },
+  {
+    "id": "3682",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3682.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3682.png",
+    "name": "Espresso Snax"
+  },
+  {
+    "id": "2052",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2052.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2052.png",
+    "name": "Poro-Snax"
+  },
+  {
+    "id": "1041",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1041.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1041.png",
+    "name": "Hunter's Machete"
+  },
+  {
+    "id": "1082",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1082.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1082.png",
+    "name": "The Dark Seal"
+  },
+  {
+    "id": "3020",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3020.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3020.png",
+    "name": "Sorcerer's Shoes"
+  },
+  {
+    "id": "2015",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2015.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2015.png",
+    "name": "Kircheis Shard"
+  },
+  {
+    "id": "3683",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3683.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3683.png",
+    "name": "Rainbow Snax Party Pack!"
+  },
+  {
+    "id": "1402",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1402.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1402.png",
+    "name": "Enchantment: Runic Echoes"
+  },
+  {
+    "id": "3134",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3134.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3134.png",
+    "name": "Serrated Dirk"
+  },
+  {
+    "id": "2050",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2050.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2050.png",
+    "name": "Explorer's Ward"
+  },
+  {
+    "id": "3801",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3801.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3801.png",
+    "name": "Crystalline Bracer"
+  },
+  {
+    "id": "3071",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3071.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3071.png",
+    "name": "The Black Cleaver"
+  },
+  {
+    "id": "1018",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1018.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1018.png",
+    "name": "Cloak of Agility"
+  },
+  {
+    "id": "3462",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3462.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3462.png",
+    "name": "Seer Stone (Trinket)"
+  },
+  {
+    "id": "1033",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1033.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1033.png",
+    "name": "Null-Magic Mantle"
+  },
+  {
+    "id": "3028",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3028.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3028.png",
+    "name": "Chalice of Harmony"
+  },
+  {
+    "id": "3003",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3003.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3003.png",
+    "name": "Archangel's Staff"
+  },
+  {
+    "id": "3460",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3460.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3460.png",
+    "name": "Golden Transcendence"
+  },
+  {
+    "id": "3104",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3104.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3104.png",
+    "name": "Lord Van Damm's Pillager"
+  },
+  {
+    "id": "3025",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3025.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3025.png",
+    "name": "Iceborn Gauntlet"
+  },
+  {
+    "id": "3901",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3901.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3901.png",
+    "name": "Fire at Will"
+  },
+  {
+    "id": "3362",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3362.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3362.png",
+    "name": "Greater Vision Totem (Trinket)"
+  },
+  {
+    "id": "2051",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2051.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2051.png",
+    "name": "Guardian's Horn"
+  },
+  {
+    "id": "3092",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3092.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3092.png",
+    "name": "Frost Queen's Claim"
+  },
+  {
+    "id": "3009",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3009.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3009.png",
+    "name": "Boots of Swiftness"
+  },
+  {
+    "id": "3077",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3077.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3077.png",
+    "name": "Tiamat"
+  },
+  {
+    "id": "3107",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3107.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3107.png",
+    "name": "Redemption"
+  },
+  {
+    "id": "2010",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2010.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2010.png",
+    "name": "Total Biscuit of Everlasting Will"
+  },
+  {
+    "id": "1052",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1052.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1052.png",
+    "name": "Amplifying Tome"
+  },
+  {
+    "id": "2059",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2059.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2059.png",
+    "name": "Travel Size Elixir of Sorcery"
+  },
+  {
+    "id": "3114",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3114.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3114.png",
+    "name": "Forbidden Idol"
+  },
+  {
+    "id": "3187",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3187.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3187.png",
+    "name": "Arcane Sweeper"
+  },
+  {
+    "id": "3504",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3504.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3504.png",
+    "name": "Ardent Censer"
+  },
+  {
+    "id": "3630",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3630.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3630.png",
+    "name": "Siege Teleport"
+  },
+  {
+    "id": "2061",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2061.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2061.png",
+    "name": "Pilfered Health Potion"
+  },
+  {
+    "id": "3146",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3146.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3146.png",
+    "name": "Hextech Gunblade"
+  },
+  {
+    "id": "1400",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1400.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1400.png",
+    "name": "Enchantment: Warrior"
+  },
+  {
+    "id": "3341",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3341.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3341.png",
+    "name": "Sweeping Lens (Trinket)"
+  },
+  {
+    "id": "1419",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1419.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1419.png",
+    "name": "Enchantment: Bloodrazor"
+  },
+  {
+    "id": "3042",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3042.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3042.png",
+    "name": "Muramana"
+  },
+  {
+    "id": "3637",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3637.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3637.png",
+    "name": "Nexus Siege: Siege Weapon Slot"
+  },
+  {
+    "id": "3145",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3145.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3145.png",
+    "name": "Hextech Revolver"
+  },
+  {
+    "id": "2138",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2138.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2138.png",
+    "name": "Elixir of Iron"
+  },
+  {
+    "id": "3027",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3027.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3027.png",
+    "name": "Rod of Ages"
+  },
+  {
+    "id": "3301",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3301.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3301.png",
+    "name": "Ancient Coin"
+  },
+  {
+    "id": "3634",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3634.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3634.png",
+    "name": "Tower: Beam of Ruination"
+  },
+  {
+    "id": "3641",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3641.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3641.png",
+    "name": "Vanguard Banner"
+  },
+  {
+    "id": "2056",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2056.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2056.png",
+    "name": "Pilfered Stealth Ward"
+  },
+  {
+    "id": "3133",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3133.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3133.png",
+    "name": "Caulfield's Warhammer"
+  },
+  {
+    "id": "3649",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3649.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3649.png",
+    "name": "Siege Sight Warder"
+  },
+  {
+    "id": "3057",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3057.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3057.png",
+    "name": "Sheen"
+  },
+  {
+    "id": "1029",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1029.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1029.png",
+    "name": "Cloth Armor"
+  },
+  {
+    "id": "3636",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3636.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3636.png",
+    "name": "Tower: Storm Bulwark"
+  },
+  {
+    "id": "1036",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1036.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1036.png",
+    "name": "Long Sword"
+  },
+  {
+    "id": "3082",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3082.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3082.png",
+    "name": "Warden's Mail"
+  },
+  {
+    "id": "3902",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3902.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3902.png",
+    "name": "Death's Daughter"
+  },
+  {
+    "id": "3036",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3036.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3036.png",
+    "name": "Lord Dominik's Regards"
+  },
+  {
+    "id": "3109",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3109.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3109.png",
+    "name": "Knight's Vow"
+  },
+  {
+    "id": "3165",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3165.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3165.png",
+    "name": "Morellonomicon"
+  },
+  {
+    "id": "3190",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3190.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3190.png",
+    "name": "Locket of the Iron Solari"
+  },
+  {
+    "id": "3030",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3030.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3030.png",
+    "name": "Hextech GLP-800"
+  },
+  {
+    "id": "2049",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2049.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2049.png",
+    "name": "Sightstone"
+  },
+  {
+    "id": "1057",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1057.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1057.png",
+    "name": "Negatron Cloak"
+  },
+  {
+    "id": "3053",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3053.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3053.png",
+    "name": "Sterak's Gage"
+  },
+  {
+    "id": "3076",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3076.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3076.png",
+    "name": "Bramble Vest"
+  },
+  {
+    "id": "3673",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3673.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3673.png",
+    "name": "Enchantment: Runic Echoes"
+  },
+  {
+    "id": "3455",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3455.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3455.png",
+    "name": "Head of Kha'Zix"
+  },
+  {
+    "id": "1055",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1055.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1055.png",
+    "name": "Doran's Blade"
+  },
+  {
+    "id": "3191",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3191.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3191.png",
+    "name": "Seeker's Armguard"
+  },
+  {
+    "id": "3380",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3380.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3380.png",
+    "name": "The Obsidian Cleaver"
+  },
+  {
+    "id": "3715",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3715.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3715.png",
+    "name": "Skirmisher's Sabre"
+  },
+  {
+    "id": "2031",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2031.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2031.png",
+    "name": "Refillable Potion"
+  },
+  {
+    "id": "3642",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3642.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3642.png",
+    "name": "Siege Refund"
+  },
+  {
+    "id": "3047",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3047.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3047.png",
+    "name": "Ninja Tabi"
+  },
+  {
+    "id": "3140",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3140.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3140.png",
+    "name": "Quicksilver Sash"
+  },
+  {
+    "id": "3115",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3115.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3115.png",
+    "name": "Nashor's Tooth"
+  },
+  {
+    "id": "2319",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2319.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2319.png",
+    "name": "Sly Sack of Gold"
+  },
+  {
+    "id": "3108",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3108.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3108.png",
+    "name": "Fiendish Codex"
+  },
+  {
+    "id": "3410",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3410.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3410.png",
+    "name": "Head of Kha'Zix"
+  },
+  {
+    "id": "3814",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3814.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3814.png",
+    "name": "Edge of Night"
+  },
+  {
+    "id": "3123",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3123.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3123.png",
+    "name": "Executioner's Calling"
+  },
+  {
+    "id": "1031",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1031.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1031.png",
+    "name": "Chain Vest"
+  },
+  {
+    "id": "3152",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3152.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3152.png",
+    "name": "Hextech Protobelt-01"
+  },
+  {
+    "id": "3048",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3048.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3048.png",
+    "name": "Seraph's Embrace"
+  },
+  {
+    "id": "3143",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3143.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3143.png",
+    "name": "Randuin's Omen"
+  },
+  {
+    "id": "3211",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3211.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3211.png",
+    "name": "Spectre's Cowl"
+  },
+  {
+    "id": "3340",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3340.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3340.png",
+    "name": "Warding Totem (Trinket)"
+  },
+  {
+    "id": "3631",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3631.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3631.png",
+    "name": "Siege Ballista"
+  },
+  {
+    "id": "3111",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3111.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3111.png",
+    "name": "Mercury's Treads"
+  },
+  {
+    "id": "3680",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3680.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3680.png",
+    "name": "Frosted Snax"
+  },
+  {
+    "id": "3382",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3382.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3382.png",
+    "name": "Salvation"
+  },
+  {
+    "id": "3035",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3035.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3035.png",
+    "name": "Last Whisper"
+  },
+  {
+    "id": "2057",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2057.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2057.png",
+    "name": "Peering Farsight Ward"
+  },
+  {
+    "id": "3117",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3117.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3117.png",
+    "name": "Boots of Mobility"
+  },
+  {
+    "id": "2047",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2047.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2047.png",
+    "name": "Oracle's Extract"
+  },
+  {
+    "id": "3416",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3416.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3416.png",
+    "name": "Head of Kha'Zix"
+  },
+  {
+    "id": "3147",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3147.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3147.png",
+    "name": "Duskblade of Draktharr"
+  },
+  {
+    "id": "3046",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3046.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3046.png",
+    "name": "Phantom Dancer"
+  },
+  {
+    "id": "2302",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2302.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2302.png",
+    "name": "Eye of the Oasis"
+  },
+  {
+    "id": "3067",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3067.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3067.png",
+    "name": "Kindlegem"
+  },
+  {
+    "id": "3022",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3022.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3022.png",
+    "name": "Frozen Mallet"
+  },
+  {
+    "id": "2403",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2403.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2403.png",
+    "name": "Minion Dematerializer"
+  },
+  {
+    "id": "3648",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3648.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3648.png",
+    "name": "Siege Teleport (Inactive)"
+  },
+  {
+    "id": "3122",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3122.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3122.png",
+    "name": "Wicked Hatchet"
+  },
+  {
+    "id": "2303",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2303.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2303.png",
+    "name": "Eye of the Equinox"
+  },
+  {
+    "id": "1001",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1001.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1001.png",
+    "name": "Boots of Speed"
+  },
+  {
+    "id": "1004",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1004.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1004.png",
+    "name": "Faerie Charm"
+  },
+  {
+    "id": "3001",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3001.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3001.png",
+    "name": "Abyssal Mask"
+  },
+  {
+    "id": "1006",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1006.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1006.png",
+    "name": "Rejuvenation Bead"
+  },
+  {
+    "id": "2420",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2420.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2420.png",
+    "name": "Stopwatch"
+  },
+  {
+    "id": "3384",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3384.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3384.png",
+    "name": "Trinity Fusion"
+  },
+  {
+    "id": "3153",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3153.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3153.png",
+    "name": "Blade of the Ruined King"
+  },
+  {
+    "id": "3512",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3512.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3512.png",
+    "name": "Zz'Rot Portal"
+  },
+  {
+    "id": "3031",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3031.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3031.png",
+    "name": "Infinity Edge"
+  },
+  {
+    "id": "3800",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3800.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3800.png",
+    "name": "Righteous Glory"
+  },
+  {
+    "id": "1037",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1037.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1037.png",
+    "name": "Pickaxe"
+  },
+  {
+    "id": "3073",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3073.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3073.png",
+    "name": "Tear of the Goddess (Quick Charge)"
+  },
+  {
+    "id": "3068",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3068.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3068.png",
+    "name": "Sunfire Cape"
+  },
+  {
+    "id": "3155",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3155.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3155.png",
+    "name": "Hexdrinker"
+  },
+  {
+    "id": "3034",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3034.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3034.png",
+    "name": "Giant Slayer"
+  },
+  {
+    "id": "3158",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3158.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3158.png",
+    "name": "Ionian Boots of Lucidity"
+  },
+  {
+    "id": "3302",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3302.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3302.png",
+    "name": "Relic Shield"
+  },
+  {
+    "id": "1058",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1058.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1058.png",
+    "name": "Needlessly Large Rod"
+  },
+  {
+    "id": "3198",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3198.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3198.png",
+    "name": "Perfect Hex Core"
+  },
+  {
+    "id": "3070",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3070.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3070.png",
+    "name": "Tear of the Goddess"
+  },
+  {
+    "id": "3675",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3675.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3675.png",
+    "name": "Enchantment: Bloodrazor"
+  },
+  {
+    "id": "3029",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3029.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3029.png",
+    "name": "Rod of Ages (Quick Charge)"
+  },
+  {
+    "id": "3033",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3033.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3033.png",
+    "name": "Mortal Reminder"
+  },
+  {
+    "id": "3135",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3135.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3135.png",
+    "name": "Void Staff"
+  },
+  {
+    "id": "2060",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2060.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2060.png",
+    "name": "Travel Size Elixir of Wrath"
+  },
+  {
+    "id": "2033",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2033.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2033.png",
+    "name": "Corrupting Potion"
+  },
+  {
+    "id": "3222",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3222.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3222.png",
+    "name": "Mikael's Crucible"
+  },
+  {
+    "id": "3043",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3043.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3043.png",
+    "name": "Muramana"
+  },
+  {
+    "id": "3084",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3084.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3084.png",
+    "name": "Overlord's Bloodmail"
+  },
+  {
+    "id": "3074",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3074.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3074.png",
+    "name": "Ravenous Hydra"
+  },
+  {
+    "id": "2058",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2058.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2058.png",
+    "name": "Travel Size Elixir of Iron"
+  },
+  {
+    "id": "3671",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3671.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3671.png",
+    "name": "Enchantment: Warrior"
+  },
+  {
+    "id": "1408",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1408.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1408.png",
+    "name": "Enchantment: Warrior"
+  },
+  {
+    "id": "3695",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3695.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3695.png",
+    "name": "Dark Star Sigil"
+  },
+  {
+    "id": "2045",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2045.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2045.png",
+    "name": "Ruby Sightstone"
+  },
+  {
+    "id": "1401",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1401.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1401.png",
+    "name": "Enchantment: Cinderhulk"
+  },
+  {
+    "id": "3513",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3513.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3513.png",
+    "name": "Eye of the Herald"
+  },
+  {
+    "id": "3052",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3052.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3052.png",
+    "name": "Jaurim's Fist"
+  },
+  {
+    "id": "3170",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3170.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3170.png",
+    "name": "Moonflair Spellblade"
+  },
+  {
     "id": "3196",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3196.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3196.png",
     "name": "The Hex Core mk-1"
+  },
+  {
+    "id": "3124",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3124.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3124.png",
+    "name": "Guinsoo's Rageblade"
+  },
+  {
+    "id": "1026",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1026.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1026.png",
+    "name": "Blasting Wand"
+  },
+  {
+    "id": "3303",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3303.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3303.png",
+    "name": "Spellthief's Edge"
+  },
+  {
+    "id": "3090",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3090.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3090.png",
+    "name": "Wooglet's Witchcap"
+  },
+  {
+    "id": "3102",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3102.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3102.png",
+    "name": "Banshee's Veil"
+  },
+  {
+    "id": "3681",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3681.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3681.png",
+    "name": "Super Spicy Snax"
+  },
+  {
+    "id": "3193",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3193.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3193.png",
+    "name": "Gargoyle Stoneplate"
+  },
+  {
+    "id": "3024",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3024.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3024.png",
+    "name": "Glacial Shroud"
+  },
+  {
+    "id": "2012",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2012.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2012.png",
+    "name": "Looted Biscuit of Rejuvenation"
+  },
+  {
+    "id": "3142",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3142.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3142.png",
+    "name": "Youmuu's Ghostblade"
+  },
+  {
+    "id": "3137",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3137.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3137.png",
+    "name": "Dervish Blade"
+  },
+  {
+    "id": "3200",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3200.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3200.png",
+    "name": "Prototype Hex Core"
+  },
+  {
+    "id": "3069",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3069.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3069.png",
+    "name": "Talisman of Ascension"
+  },
+  {
+    "id": "2424",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2424.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2424.png",
+    "name": "Broken Stopwatch"
+  },
+  {
+    "id": "3742",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3742.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3742.png",
+    "name": "Dead Man's Plate"
+  },
+  {
+    "id": "3285",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3285.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3285.png",
+    "name": "Luden's Echo"
+  },
+  {
+    "id": "2423",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2423.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2423.png",
+    "name": "Stopwatch"
+  },
+  {
+    "id": "3385",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3385.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3385.png",
+    "name": "Wooglet's Witchcrown"
+  },
+  {
+    "id": "3075",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3075.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3075.png",
+    "name": "Thornmail"
+  },
+  {
+    "id": "3151",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3151.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3151.png",
+    "name": "Liandry's Torment"
+  },
+  {
+    "id": "1043",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1043.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1043.png",
+    "name": "Recurve Bow"
+  },
+  {
+    "id": "3903",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3903.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3903.png",
+    "name": "Raise Morale"
+  },
+  {
+    "id": "3116",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3116.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3116.png",
+    "name": "Rylai's Crystal Scepter"
+  },
+  {
+    "id": "3361",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3361.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3361.png",
+    "name": "Greater Stealth Totem (Trinket)"
+  },
+  {
+    "id": "3174",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3174.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3174.png",
+    "name": "Athene's Unholy Grail"
+  },
+  {
+    "id": "1410",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1410.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1410.png",
+    "name": "Enchantment: Runic Echoes"
+  },
+  {
+    "id": "3694",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3694.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3694.png",
+    "name": "Cloak of Stars"
+  },
+  {
+    "id": "3086",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3086.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3086.png",
+    "name": "Zeal"
+  },
+  {
+    "id": "3371",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3371.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3371.png",
+    "name": "Molten Edge"
+  },
+  {
+    "id": "3363",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3363.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3363.png",
+    "name": "Farsight Alteration"
+  },
+  {
+    "id": "3098",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3098.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3098.png",
+    "name": "Frostfang"
+  },
+  {
+    "id": "2419",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2419.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2419.png",
+    "name": "Commencing Stopwatch"
+  },
+  {
+    "id": "3096",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3096.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3096.png",
+    "name": "Nomad's Medallion"
+  },
+  {
+    "id": "3105",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3105.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3105.png",
+    "name": "Aegis of the Legion"
+  },
+  {
+    "id": "3091",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3091.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3091.png",
+    "name": "Wit's End"
+  },
+  {
+    "id": "3691",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3691.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3691.png",
+    "name": "Singularity Lantern"
+  },
+  {
+    "id": "1053",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1053.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1053.png",
+    "name": "Vampiric Scepter"
+  },
+  {
+    "id": "3185",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3185.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3185.png",
+    "name": "The Lightbringer"
+  },
+  {
+    "id": "2422",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2422.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2422.png",
+    "name": "Slightly Magical Boots"
+  },
+  {
+    "id": "3422",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3422.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3422.png",
+    "name": "Head of Kha'Zix"
+  },
+  {
+    "id": "3065",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3065.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3065.png",
+    "name": "Spirit Visage"
+  },
+  {
+    "id": "1011",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1011.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1011.png",
+    "name": "Giant's Belt"
+  },
+  {
+    "id": "1051",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1051.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1051.png",
+    "name": "Brawler's Gloves"
+  },
+  {
+    "id": "3373",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3373.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3373.png",
+    "name": "Forgefire Cape"
+  },
+  {
+    "id": "1413",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1413.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1413.png",
+    "name": "Enchantment: Cinderhulk"
+  },
+  {
+    "id": "3144",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3144.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3144.png",
+    "name": "Bilgewater Cutlass"
+  },
+  {
+    "id": "3197",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3197.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3197.png",
+    "name": "The Hex Core mk-2"
+  },
+  {
+    "id": "3706",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3706.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3706.png",
+    "name": "Stalker's Blade"
+  },
+  {
+    "id": "3004",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3004.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3004.png",
+    "name": "Manamune"
+  },
+  {
+    "id": "3078",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3078.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3078.png",
+    "name": "Trinity Force"
+  },
+  {
+    "id": "1027",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1027.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1027.png",
+    "name": "Sapphire Crystal"
+  },
+  {
+    "id": "3693",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3693.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3693.png",
+    "name": "Gravity Boots"
+  },
+  {
+    "id": "3672",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3672.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3672.png",
+    "name": "Enchantment: Cinderhulk"
+  },
+  {
+    "id": "3690",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3690.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3690.png",
+    "name": "Cosmic Shackle"
+  },
+  {
+    "id": "2301",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2301.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2301.png",
+    "name": "Eye of the Watchers"
+  },
+  {
+    "id": "2004",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2004.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2004.png",
+    "name": "Mana Potion"
+  },
+  {
+    "id": "3072",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3072.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3072.png",
+    "name": "The Bloodthirster"
+  },
+  {
+    "id": "3645",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3645.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3645.png",
+    "name": "Seer Stone (Trinket)"
+  },
+  {
+    "id": "1056",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1056.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1056.png",
+    "name": "Doran's Ring"
+  },
+  {
+    "id": "3751",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3751.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3751.png",
+    "name": "Bami's Cinder"
+  },
+  {
+    "id": "3156",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3156.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3156.png",
+    "name": "Maw of Malmortius"
+  },
+  {
+    "id": "3635",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3635.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3635.png",
+    "name": "Port Pad"
+  },
+  {
+    "id": "3379",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3379.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3379.png",
+    "name": "Infernal Mask"
+  },
+  {
+    "id": "3100",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3100.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3100.png",
+    "name": "Lich Bane"
+  },
+  {
+    "id": "3812",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3812.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3812.png",
+    "name": "Death's Dance"
+  },
+  {
+    "id": "1412",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1412.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1412.png",
+    "name": "Enchantment: Warrior"
+  },
+  {
+    "id": "1414",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1414.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1414.png",
+    "name": "Enchantment: Runic Echoes"
+  },
+  {
+    "id": "1416",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1416.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1416.png",
+    "name": "Enchantment: Bloodrazor"
+  },
+  {
+    "id": "3056",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3056.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3056.png",
+    "name": "Ohmwrecker"
+  },
+  {
+    "id": "2003",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2003.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2003.png",
+    "name": "Health Potion"
+  },
+  {
+    "id": "3184",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3184.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3184.png",
+    "name": "Guardian's Hammer"
+  },
+  {
+    "id": "3633",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3633.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3633.png",
+    "name": "Siege Teleport"
+  },
+  {
+    "id": "1418",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1418.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1418.png",
+    "name": "Enchantment: Bloodrazor"
+  },
+  {
+    "id": "3113",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3113.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3113.png",
+    "name": "Aether Wisp"
+  },
+  {
+    "id": "3112",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3112.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3112.png",
+    "name": "Guardian's Orb"
+  },
+  {
+    "id": "2009",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2009.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2009.png",
+    "name": "Total Biscuit of Rejuvenation"
+  },
+  {
+    "id": "3802",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3802.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3802.png",
+    "name": "Lost Chapter"
+  },
+  {
+    "id": "3041",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3041.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3041.png",
+    "name": "Mejai's Soulstealer"
+  },
+  {
+    "id": "3040",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3040.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3040.png",
+    "name": "Seraph's Embrace"
+  },
+  {
+    "id": "2139",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2139.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2139.png",
+    "name": "Elixir of Sorcery"
+  },
+  {
+    "id": "2421",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/2421.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/2421.png",
+    "name": "Broken Stopwatch"
+  },
+  {
+    "id": "3050",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3050.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3050.png",
+    "name": "Zeke's Convergence"
+  },
+  {
+    "id": "3006",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3006.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3006.png",
+    "name": "Berserker's Greaves"
+  },
+  {
+    "id": "3010",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3010.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3010.png",
+    "name": "Catalyst of Aeons"
+  },
+  {
+    "id": "3157",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3157.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3157.png",
+    "name": "Zhonya's Hourglass"
+  },
+  {
+    "id": "3087",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3087.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3087.png",
+    "name": "Statikk Shiv"
+  },
+  {
+    "id": "1083",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/1083.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/1083.png",
+    "name": "Cull"
+  },
+  {
+    "id": "3110",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3110.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3110.png",
+    "name": "Frozen Heart"
+  },
+  {
+    "id": "3026",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3026.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3026.png",
+    "name": "Guardian Angel"
+  },
+  {
+    "id": "3044",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3044.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3044.png",
+    "name": "Phage"
+  },
+  {
+    "id": "3060",
+    "description": "TBD",
+    "image_path": "/home/neamar/src/twitch-overlay/get_items/items/3060.png",
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/3060.png",
+    "name": "Banner of Command"
   }
 ]
