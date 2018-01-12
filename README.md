@@ -1,6 +1,14 @@
 # Twitch League Of Legends overlay
 See [goals.md](goals.md) for a description of what we're trying to achieve.
 
+## Setup
+```
+python3 -m venv venv
+
+# Then, every time, run
+./venv/bin/activate
+```
+
 ## Components
 ### getItems
 Return, for a given locale (e.g. `en_GB`) a list of all the items in League current patch.
