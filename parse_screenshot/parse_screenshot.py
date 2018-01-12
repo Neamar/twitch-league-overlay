@@ -24,8 +24,11 @@ def parse_screenshot(screenshot_path, items):
             res = cv2.matchTemplate(img_gray, resized, cv2.TM_CCOEFF_NORMED)
             threshold = 0.7
             loc = np.where(res >= threshold)
-            for pt in zip(*loc[::-1]):
-                print("Got a match for %s" % (item['name']))
+
+            points = list(zip(*loc[::-1]))
+            if len(points) > 0:
+                print("Got %s match(es) for %s" % (len(points), item['name']))
+            for pt in points:
                 cv2.rectangle(img_rgb, pt, (pt[0] + int(w * r), pt[1] + int(h * r)), (0, 0, 255), 2)
 
     cv2.imwrite('res.png', img_rgb)
