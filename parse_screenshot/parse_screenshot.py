@@ -86,5 +86,5 @@ if __name__ == "__main__":
 
     cv2.imwrite('res.png', img_rgb)
 
-    with open('../fake_html_scaffold/data.json', 'w') as f:
-        f.write(json.dumps(items_position, indent=2))
+    with open('../fake_html_scaffold/data.js', 'w') as f:
+        f.write("var ritoverlayItems = " + json.dumps(items_position, indent=2))
