@@ -1,4 +1,5 @@
 import requests
+import json
 
 PATCH = "8.1.1"
 image_template = "http://ddragon.leagueoflegends.com/cdn/8.1.1/img/item/%s"
@@ -25,11 +26,14 @@ def get_items():
                  "id": item_id,
                  "name": item_data['name'],
                  "description": 'TBD',  # item_data['description'],
-                 "image_url": image_template % item_data['image']['full']
+                 "image_url": image_url
               })
-
 
     return items
 
 if __name__ == "__main__":
-    print(get_items())
+    items = get_items()
+    print(items)
+    with open('items.json', 'w') as f:
+        f.write(json.dumps(items, indent=2))
+
